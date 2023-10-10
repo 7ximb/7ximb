@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @7ximb
+- 🌱 I’m currently learning C++
